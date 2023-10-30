@@ -15,11 +15,7 @@ Using Inside Airbnb publicly available data we can identify if Airbnbs are being
 Given that the number of clusters was unknown Hierarchical clustering was chosen as the preferred methodology. Hierarchical clustering is a form of unsupervised learning that helps to draw inferences from unlabeled data. For this particularly agglomerative clustering based on the distance between the Airbnbs it is going to be used to select which dwellings belong to each cluster.
 
 
-[^1]: Airbnb https://www.airbnb.co.nz/
-[^2]: Inside Airbnb http://insideairbnb.com
-
-
-![](xaringan_airbnb_casestudy_intro.PNG)
+![](andrea-davis-IWfe63thJxk-unsplash.jpg) [^3]
 
 # Overview Methodology
 
@@ -28,3 +24,7 @@ Given that the number of clusters was unknown Hierarchical clustering was chosen
 # Overview Results
 
 ![](xaringan_airbnb_casestudy_final.PNG)
+
+[^1]: Airbnb https://www.airbnb.co.nz/
+[^2]: Inside Airbnb https://insideairbnb.com/
+[^3]: Unsplash https://unsplash.com/photos/
