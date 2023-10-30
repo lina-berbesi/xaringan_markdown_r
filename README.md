@@ -19,6 +19,6 @@ Given that the number of clusters was unknown Hierarchical clustering was chosen
 [^2]: Inside Airbnb http://insideairbnb.com
 
 
-![](xaringan_airbnb_casestudy_intro.png)
-![](xaringan_airbnb_casestudy_midway.png)
-![](xaringan_airbnb_casestudy_final.png)
+![](xaringan_airbnb_casestudy_intro.PNG)
+![](xaringan_airbnb_casestudy_midway.PNG)
+![](xaringan_airbnb_casestudy_final.PNG)
