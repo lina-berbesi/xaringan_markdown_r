@@ -20,5 +20,11 @@ Given that the number of clusters was unknown Hierarchical clustering was chosen
 
 
 ![](xaringan_airbnb_casestudy_intro.PNG)
+
+# Overview Methodology
+
 ![](xaringan_airbnb_casestudy_midway.PNG)
+
+# Overview Results
+
 ![](xaringan_airbnb_casestudy_final.PNG)
