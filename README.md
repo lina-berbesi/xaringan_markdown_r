@@ -1,6 +1,6 @@
 # Airbnb Hierarchical Clustering
 
-# Situation
+# Context
 
 Airbnb has allowed regular people take the space of formal hospitality businesses to offer both short and long term accomodation.[^1]
 
